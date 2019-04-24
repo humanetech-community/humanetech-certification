@@ -1,6 +1,8 @@
 # Humane Technology Certification Program
 
-> **Note**: This is a _temporary_ working environment for [The Center for Humane Technology](https://humanetech.com).
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://community.humanetech.com)
+
+> **Note**: This is a _planned project_ of the [Humane Tech Community](https://humanetech.community).
 
 ## Objectives
 
